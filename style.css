@@ -1,17 +1,27 @@
 body {
-    background: #cccccc
+    background: #CCCCCC
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
 }
 
 p {
     text-align: center;
 }
 
-em strong {
-    color: #FF0000;
+#missao {
+    font-size: 20px
 }
 
-<link rel="stylesheet" href="style.css">
+strong {
+    color: red;
+}
 
-<h1 style="text-align: center">Sobre o Futsal Alura</h1>
-
-<p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong></em></p>
+.itens {
+    font-style: italic
+}
