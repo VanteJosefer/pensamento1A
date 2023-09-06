@@ -16,7 +16,7 @@ p {
 <link rel="stylesheet" href="style.css">
 <h1 style=”text-align: center; ”>Sobre o futsal no Alura</h1>
 
-<p style=”text-align: center;”>Localizada Localizada no centro da cidade, o futsal no Alura traz para sociedade que há o melhor time para todos. Fundado em 2021, o futsal no
+<p style=”text-align: center;”> Localizada no centro da cidade, o futsal no Alura traz para a sociedade o que há de melhor para todos. Fundado em 2021, o futsal no
 Alura já é destaque na cidade e conquista novos alunos a cada dia.</p>
 
 <p style="font-size: 23px"><em></em>Nossa missão é:<strong> ”melhorar a qualidade de vida dos
@@ -32,7 +32,7 @@ O atendimento dos técnicos é de melhor qualidade, fazendo com que os nossos al
 <li class="itens" >treinamentos físicos</li>
 <li class="itens" >treinamentos com dribles, para ter cada vez mais habilidade</li>
 
-Jogando bola nos deixa cada vez mais saudáveis.
+Jogando bola nos deixa cada vez mais saudávei
 </ul>
 </body>
 </html>
