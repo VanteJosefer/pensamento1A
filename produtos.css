@@ -14,6 +14,23 @@
     box-sizing: border-box;
 }
 
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #088C19;	
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
@@ -27,4 +44,15 @@
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
