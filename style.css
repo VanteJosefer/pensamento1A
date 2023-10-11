@@ -2,9 +2,9 @@ body {
     background: #CCCCCC
 }
 
-#banner {
-    width:100%;
-    height: 100%;;
+.banner{
+    width: 100%;
+    height: 800px;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h1 {
 
 p {
     text-align: center;
+    font-size: 23px;
 }
 
 #missao {
@@ -26,3 +27,37 @@ strong {
 .itens {
     font-style: italic
 }
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form label, form p {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
