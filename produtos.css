@@ -1,3 +1,6 @@
+body{
+    background-color: #6b5c5c;
+}
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -12,12 +15,12 @@
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid #000000;
+    border: 2px solid #d6b6b6;
     border-radius: 10px;
 }
 
 header {
-    background: #BBBBBB;
+    background: #6b5c5c;
     padding: 20px 0;
 }
 
@@ -85,7 +88,7 @@ footer {
 }
 
 .copyright {
-    color: #FFFFFF;
+    color: #000000;
     font-size: 13px;
     margin: 20px 0 0;
 }
